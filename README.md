@@ -17,7 +17,7 @@ Both tables are linked via the `Order ID` field for accurate relational analysis
 ---
 
 
----
+
 
 ## 📈 Dashboard Insights
 - Maharashtra recorded the highest total sales.  
@@ -50,4 +50,4 @@ Delivered a professional, insight-rich dashboard that demonstrates the use of Po
 ## 📷 Dashboard Preview
 (Add your dashboard screenshot here)
 
-![Dashboard Screenshot](Screenshots/Dashboard_View.png)
+![Dashboard Screenshot](Screenshot 2025-11-12 221141.png)
