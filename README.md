@@ -46,8 +46,3 @@ Both tables are linked via the `Order ID` field for accurate relational analysis
 Delivered a professional, insight-rich dashboard that demonstrates the use of Power BI for business analytics — improving visibility into performance metrics and aiding data-driven strategy.
 
 ---
-
-## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
-
-![Dashboard Screenshot](Screenshot 2025-11-12 221141.png)
